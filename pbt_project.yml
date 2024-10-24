@@ -1,0 +1,57 @@
+name: zachary.kirlin
+description: service-desk
+version: 2.8.7.797
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: zacharykirlin
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:30:08'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:30:08'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:30:08.69459Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '375387863'
+  createdAt: '2024-10-24T20:30:08.69459Z'
+  type: plibMaven
+projectDependencies:
+  '391':
+    projectUID: 391
+    projectName: floyd.cormier
+    repositoryPath: gitUri=http://gitserver:3000/dev_PzwzIpEY_team_645/dev_PzwzIpEY_project_391.git&subPath=
+    version: floyd.cormier/2.8.8.0
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 20:30:07'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
